@@ -18,7 +18,7 @@ choose()
 	  elif [ $base == "A" -o $base == "a" ]
 	  then
 		sudo pacman -Syu
-		sudo pacman -S python3.7 
+		sudo pacman -S python 
 		sudo pacman -S python-pip
 		echo "Process for Install Mysql-Connector..."
         	python -m pip install mysql-connector
@@ -26,7 +26,7 @@ choose()
 	  elif [ $base == "R" -o $base == "r" ]
 	  then 
 		sudo yum -y update
-		sudo yum -y install python3.7
+		sudo yum -y install python
 		sudo yum -y install python-pip
 		echo "Process for Install Mysql-Connector..."
         	python -m pip install mysql-connector
