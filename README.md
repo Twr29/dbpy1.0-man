@@ -1,7 +1,7 @@
-# Sqlpy Program 
-Sqlpy is a simple program to management database for server. This program is created because the experience of setting up the database on the server cli is very boring and includes one by one if you want to manage it.
+# Dbpy1.0-man Program 
+Dbpy is a simple program to management database for server. This program is created because the experience of setting up the database on the server cli is very boring and includes one by one if you want to manage it.
  
-The features of this Sqlpy program are :
+The features of this Dbpy program are :
 1. Show Database
 2. Show Table
 3. Create Database
@@ -17,13 +17,13 @@ The packages needed to run this program are:
 
 How to use Sqlpy on the server:
 1. Clone or Download ZIP all files in this repository.
-2. If Download ZIP then extract unzip Sqlpy1.0-master.zip.
+2. If Download ZIP then extract unzip dbpy1.0-man-master.zip.
 3. Sqlpy1.0-master / cd.
 4. chmod + x install.sh.
 To change permissions so that the terminal can be executed.
 5. run ./install.sh (This is used to install the required package except mysql-server, the database can use mysql-server or mariadb-server).
 6. If the installation is successfull, then Sqlpy can be run.
-7. run python sqlpy.py to start Sqlpy.
+7. run python dbpy1.0-man.py to start Dbpy-man.
 
 The menu in Sqlpy:
 1. Show Databases (to display all databases in mysql-server).
