@@ -15,7 +15,7 @@ The packages needed to run this program are:
 3. PIP / Python-pip (to install mysql-connector)
 4. Mysql-connector (to Connect Mysql with Python)
 
-How to use Sqlpy on the server:
+How to use Dbpy on the server:
 1. Clone or Download ZIP all files in this repository.
 2. If Download ZIP then extract unzip dbpy1.0-man-master.zip.
 3. Sqlpy1.0-master / cd.
