@@ -35,4 +35,4 @@ The menu in Dbpy:
 7. Delete Table (to delete the selected table in the database currently in use).
 8. Exit. (for exit Dbpy)
 
-NB: To develop Sqlpy can give suggestions and criticisms for me. Sqlpy includes an open source program that you can modify to suit your needs.
+NB: To develop Dbpy can give suggestions and criticisms for me. Sqlpy includes an open source program that you can modify to suit your needs.
