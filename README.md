@@ -25,7 +25,7 @@ To change permissions so that the terminal can be executed.
 6. If the installation is successfull, then Sqlpy can be run.
 7. run python dbpy1.0-man.py to start Dbpy-man.
 
-The menu in Sqlpy:
+The menu in Dbpy:
 1. Show Databases (to display all databases in mysql-server).
 2. Show Tables (to display all tables in the database that are being used).
 3. Create Database (to create a new database).
@@ -33,6 +33,6 @@ The menu in Sqlpy:
 5. Login Database more (to change which database is used now).
 6. Delete Database (to delete the database).
 7. Delete Table (to delete the selected table in the database currently in use).
-8. Exit. (for exit sqlpy)
+8. Exit. (for exit Dbpy)
 
 NB: To develop Sqlpy can give suggestions and criticisms for me. Sqlpy includes an open source program that you can modify to suit your needs.
